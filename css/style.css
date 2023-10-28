@@ -1,6 +1,1 @@
-body{
-    background-color:white;
-}
-.bg-video{
-background-color: #d8d8d8;
-}
+body, html { overflow-x:hidden; }
